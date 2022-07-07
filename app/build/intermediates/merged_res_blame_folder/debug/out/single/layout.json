@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.celestialapp-mergeDebugResources-51:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.celestialapp-main-54:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.celestialapp-mergeDebugResources-51:\\layout\\fragment_search_results.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.celestialapp-main-54:\\layout\\fragment_search_results.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.celestialapp-mergeDebugResources-51:\\layout\\fragment_keywords_manager.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.celestialapp-main-54:\\layout\\fragment_keywords_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.celestialapp-mergeDebugResources-51:\\layout\\manager_keyword_item.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.celestialapp-main-54:\\layout\\manager_keyword_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.celestialapp-mergeDebugResources-51:\\layout\\keyword_item.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.celestialapp-main-54:\\layout\\keyword_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.celestialapp-mergeDebugResources-51:\\layout\\fragment_zoom.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.celestialapp-main-54:\\layout\\fragment_zoom.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.celestialapp-mergeDebugResources-51:\\layout\\fragment_favourite_details.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.celestialapp-main-54:\\layout\\fragment_favourite_details.xml"
+    },
+    {
+        "merged": "com.example.celestialapp-mergeDebugResources-51:/layout/fragment_zoom.xml",
+        "source": "com.example.celestialapp-main-54:/layout/fragment_zoom.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.celestialapp-mergeDebugResources-51:\\layout\\fragment_details.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.celestialapp-main-54:\\layout\\fragment_details.xml"
+    },
+    {
+        "merged": "com.example.celestialapp-mergeDebugResources-51:/layout/creation_keyword_dialog.xml",
+        "source": "com.example.celestialapp-main-54:/layout/creation_keyword_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.celestialapp-mergeDebugResources-51:\\layout\\creation_keyword_dialog.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.celestialapp-main-54:\\layout\\creation_keyword_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.celestialapp-mergeDebugResources-51:\\layout\\fragment_favourite.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.celestialapp-main-54:\\layout\\fragment_favourite.xml"
+    },
+    {
+        "merged": "com.example.celestialapp-mergeDebugResources-51:/layout/fragment_favourite_details.xml",
+        "source": "com.example.celestialapp-main-54:/layout/fragment_favourite_details.xml"
+    },
+    {
+        "merged": "com.example.celestialapp-mergeDebugResources-51:/layout/celestial_item.xml",
+        "source": "com.example.celestialapp-main-54:/layout/celestial_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.celestialapp-mergeDebugResources-51:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.celestialapp-main-54:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.celestialapp-mergeDebugResources-51:\\layout\\celestial_item.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.celestialapp-main-54:\\layout\\celestial_item.xml"
+    },
+    {
+        "merged": "com.example.celestialapp-mergeDebugResources-51:/layout/keyword_item.xml",
+        "source": "com.example.celestialapp-main-54:/layout/keyword_item.xml"
+    },
+    {
+        "merged": "com.example.celestialapp-mergeDebugResources-51:/layout/manager_keyword_item.xml",
+        "source": "com.example.celestialapp-main-54:/layout/manager_keyword_item.xml"
+    },
+    {
+        "merged": "com.example.celestialapp-mergeDebugResources-51:/layout/fragment_details.xml",
+        "source": "com.example.celestialapp-main-54:/layout/fragment_details.xml"
+    }
+]
